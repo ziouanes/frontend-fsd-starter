@@ -1,0 +1,59 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Production build
+/dist
+/build
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+*.pdf
+*.psd
+*.ai
+*.eps
+
+# Cache directories
+.cache/
+.temp/
+.parcel-cache/
+
+# Test coverage
+/coverage
+
+# Debug
+.debug/
+debug.log
+
+# Optional: Uncomment if you want to ignore source maps
+# *.map
